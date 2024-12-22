@@ -109,4 +109,4 @@ Special thanks to the following:
 
 ---
 
-For any questions or issues, feel free to contact **[nagaraju736881@gmail.com]**.
+For any questions or issues, feel free to contact [gmail](nagaraju736881@gmail.com).
