@@ -1,0 +1,11 @@
+opencv-python
+pillow
+pandas
+numpy
+
+#Run the following commands to install each library:
+pip install opencv-python
+pip install pillow
+pip install pandas
+pip install numpy
+pip install streamlit
